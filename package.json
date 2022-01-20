@@ -1,0 +1,14 @@
+{
+  "name": "pterocontrol",
+  "version": "10.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord-buttons": "4.0.0",
+    "discord-epagination": "1.2.6-1",
+    "discord.js": "12.5.3",
+    "mongoose": "^5.13.7",
+    "nodeactyl": "3.1.3"
+  }
+}
